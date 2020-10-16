@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Webko", "Webko\Webko.csproj", "{11C0321D-5FE0-4D36-8DDE-D63C44F4F1B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Webko.Core", "Webko.Core\Webko.Core.csproj", "{1F24B333-0D03-42B4-9D15-80ED4C7A2120}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11C0321D-5FE0-4D36-8DDE-D63C44F4F1B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11C0321D-5FE0-4D36-8DDE-D63C44F4F1B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11C0321D-5FE0-4D36-8DDE-D63C44F4F1B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11C0321D-5FE0-4D36-8DDE-D63C44F4F1B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F24B333-0D03-42B4-9D15-80ED4C7A2120}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F24B333-0D03-42B4-9D15-80ED4C7A2120}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F24B333-0D03-42B4-9D15-80ED4C7A2120}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F24B333-0D03-42B4-9D15-80ED4C7A2120}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0CD21C37-887A-4042-8718-30801921481A}
+	EndGlobalSection
+EndGlobal
