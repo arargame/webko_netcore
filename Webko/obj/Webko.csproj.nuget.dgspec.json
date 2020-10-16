@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ararg\\source\\repos\\Webko\\Webko\\Webko.csproj": {}
+    "C:\\Users\\ararg\\source\\repos\\webko_netcore\\Webko\\Webko.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ararg\\source\\repos\\Webko\\Webko\\Webko.csproj": {
+    "C:\\Users\\ararg\\source\\repos\\webko_netcore\\Webko\\Webko.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ararg\\source\\repos\\Webko\\Webko\\Webko.csproj",
+        "projectUniqueName": "C:\\Users\\ararg\\source\\repos\\webko_netcore\\Webko\\Webko.csproj",
         "projectName": "Webko",
-        "projectPath": "C:\\Users\\ararg\\source\\repos\\Webko\\Webko\\Webko.csproj",
+        "projectPath": "C:\\Users\\ararg\\source\\repos\\webko_netcore\\Webko\\Webko.csproj",
         "packagesPath": "C:\\Users\\ararg\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ararg\\source\\repos\\Webko\\Webko\\obj\\",
+        "outputPath": "C:\\Users\\ararg\\source\\repos\\webko_netcore\\Webko\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
