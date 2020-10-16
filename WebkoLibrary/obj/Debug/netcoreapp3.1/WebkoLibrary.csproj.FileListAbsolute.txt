@@ -1,0 +1,9 @@
+C:\Users\ararg\source\repos\webko_netcore\WebkoLibrary\bin\Debug\netcoreapp3.1\WebkoLibrary.deps.json
+C:\Users\ararg\source\repos\webko_netcore\WebkoLibrary\bin\Debug\netcoreapp3.1\WebkoLibrary.dll
+C:\Users\ararg\source\repos\webko_netcore\WebkoLibrary\bin\Debug\netcoreapp3.1\WebkoLibrary.pdb
+C:\Users\ararg\source\repos\webko_netcore\WebkoLibrary\obj\Debug\netcoreapp3.1\WebkoLibrary.csprojAssemblyReference.cache
+C:\Users\ararg\source\repos\webko_netcore\WebkoLibrary\obj\Debug\netcoreapp3.1\WebkoLibrary.AssemblyInfoInputs.cache
+C:\Users\ararg\source\repos\webko_netcore\WebkoLibrary\obj\Debug\netcoreapp3.1\WebkoLibrary.AssemblyInfo.cs
+C:\Users\ararg\source\repos\webko_netcore\WebkoLibrary\obj\Debug\netcoreapp3.1\WebkoLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ararg\source\repos\webko_netcore\WebkoLibrary\obj\Debug\netcoreapp3.1\WebkoLibrary.dll
+C:\Users\ararg\source\repos\webko_netcore\WebkoLibrary\obj\Debug\netcoreapp3.1\WebkoLibrary.pdb
